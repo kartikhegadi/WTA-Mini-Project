@@ -8,7 +8,7 @@ FIRST Download
 
 2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
 
-3"book_shop"
+3 bookShop
 
 4. Download the zip file/ download winrar
 
@@ -22,7 +22,7 @@ FIRST Download
 
 6. Import book_shop_db.sql file(given inside the zip package in SQL file folder)
 
-7.Run the script http:/book_shop
+7.Run the script http:/bookShop
 
 **LOGIN DETAILS** 
 
@@ -31,4 +31,3 @@ user: admin
 pass: admin123
 
 
-\
