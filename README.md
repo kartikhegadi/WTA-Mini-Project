@@ -1,5 +1,5 @@
 # WTA Mini-Project
- Full fleched book shop 
+ Full fleched book shop management system 
 
 
 FIRST Download
